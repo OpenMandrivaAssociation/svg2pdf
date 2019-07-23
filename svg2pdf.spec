@@ -1,8 +1,8 @@
 %define git_clone_date 20100407
 
 Name:		svg2pdf
-Version:	0
-Release:	1.%{git_clone_date}.1
+Version:	0.2
+Release:	1
 Summary:	Simple SVG to PDF converter
 Group:		Development/X11
 License:	MIT
