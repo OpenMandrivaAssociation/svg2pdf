@@ -6,7 +6,7 @@ Release:	1
 Summary:	Simple SVG to PDF converter
 Group:		Development/X11
 License:	MIT
-Url:		http://cgit.freedesktop.org/~cworth/svg2pdf/
+Url:		https://cgit.freedesktop.org/~cworth/svg2pdf/
 Source0:	svg2pdf.c
 Source1:	Makefile
 
