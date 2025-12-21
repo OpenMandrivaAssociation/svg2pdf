@@ -10,6 +10,7 @@ Url:		https://cgit.freedesktop.org/~cworth/svg2pdf/
 Source0:	svg2pdf.c
 Source1:	Makefile
 
+BuildRequires:	make
 BuildRequires: pkgconfig(cairo)
 BuildRequires: pkgconfig(librsvg-2.0)
 
